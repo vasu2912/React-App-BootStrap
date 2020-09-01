@@ -5,6 +5,8 @@ Batch Script to Create a Basic configured React Setup
 
 > Only works on windows as of now !!
 
+Clone the repo and Run the Batch File to get started.
+
 
 ## Requirements
 - Windows OS
